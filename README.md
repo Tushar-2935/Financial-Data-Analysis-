@@ -1,0 +1,2 @@
+A Python-based financial analysis tool using the yfinance library to compute key metrics such as moving averages, daily returns, and Value at Risk (VaR).
+Visualized market data using candlestick charts, Bollinger Bands, and portfolio return graphs. Demonstrated strong skills in data analysis, data visualization, and an understanding of financial market trends to support informed investment decisions.
